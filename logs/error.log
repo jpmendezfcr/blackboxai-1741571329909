@@ -1,0 +1,13 @@
+[10-Mar-2025 01:38:32 UTC] Error en ChatController: El mensaje no puede estar vacío
+[10-Mar-2025 01:44:35 UTC] Error en WorkspaceModel::listFiles: Ruta no válida: fuera del workspace
+[10-Mar-2025 01:44:35 UTC] Error en WorkspaceModel::listFiles: Ruta no válida: fuera del workspace
+[10-Mar-2025 01:45:03 UTC] Error en WorkspaceModel::listFiles: Ruta no válida: fuera del workspace
+[10-Mar-2025 01:45:03 UTC] Error en WorkspaceModel::listFiles: Ruta no válida: fuera del workspace
+[10-Mar-2025 01:46:29 UTC] Error en WorkspaceModel::writeFile: Ruta no válida: fuera del workspace
+[10-Mar-2025 01:46:29 UTC] Error en FileController::createFile: Ruta no válida: fuera del workspace
+[10-Mar-2025 01:48:05 UTC] Error en WorkspaceModel::listFiles: Ruta no válida: fuera del workspace
+[10-Mar-2025 01:48:05 UTC] Error en WorkspaceModel::listFiles: Ruta no válida: fuera del workspace
+[10-Mar-2025 01:48:17 UTC] Error en WorkspaceModel::writeFile: Ruta no válida: fuera del workspace
+[10-Mar-2025 01:48:17 UTC] Error en FileController::createFile: Ruta no válida: fuera del workspace
+[10-Mar-2025 01:48:41 UTC] Error en WorkspaceModel::writeFile: Ruta no válida: fuera del workspace
+[10-Mar-2025 01:48:41 UTC] Error en FileController::createFile: Ruta no válida: fuera del workspace
